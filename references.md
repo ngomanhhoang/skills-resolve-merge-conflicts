@@ -1,3 +1,2 @@
-# References
+Hello, I'm your teacher
 
-* octocat 1 😈
